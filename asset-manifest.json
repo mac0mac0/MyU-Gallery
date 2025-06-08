@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mac0mac0.github.io/MyU-Gallery/static/css/main.88ef8724.css",
-    "main.js": "/mac0mac0.github.io/MyU-Gallery/static/js/main.b179adaf.js",
+    "main.css": "/mac0mac0.github.io/MyU-Gallery/static/css/main.0e244d94.css",
+    "main.js": "/mac0mac0.github.io/MyU-Gallery/static/js/main.0af9caa5.js",
     "index.html": "/mac0mac0.github.io/MyU-Gallery/index.html",
-    "main.88ef8724.css.map": "/mac0mac0.github.io/MyU-Gallery/static/css/main.88ef8724.css.map",
-    "main.b179adaf.js.map": "/mac0mac0.github.io/MyU-Gallery/static/js/main.b179adaf.js.map"
+    "main.0e244d94.css.map": "/mac0mac0.github.io/MyU-Gallery/static/css/main.0e244d94.css.map",
+    "main.0af9caa5.js.map": "/mac0mac0.github.io/MyU-Gallery/static/js/main.0af9caa5.js.map"
   },
   "entrypoints": [
-    "static/css/main.88ef8724.css",
-    "static/js/main.b179adaf.js"
+    "static/css/main.0e244d94.css",
+    "static/js/main.0af9caa5.js"
   ]
 }
