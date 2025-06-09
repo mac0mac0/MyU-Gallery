@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MyU-Gallery/static/css/main.8c261027.css",
-    "main.js": "/MyU-Gallery/static/js/main.4e15db84.js",
+    "main.css": "/MyU-Gallery/static/css/main.78d8f553.css",
+    "main.js": "/MyU-Gallery/static/js/main.f8436253.js",
     "index.html": "/MyU-Gallery/index.html",
-    "main.8c261027.css.map": "/MyU-Gallery/static/css/main.8c261027.css.map",
-    "main.4e15db84.js.map": "/MyU-Gallery/static/js/main.4e15db84.js.map"
+    "main.78d8f553.css.map": "/MyU-Gallery/static/css/main.78d8f553.css.map",
+    "main.f8436253.js.map": "/MyU-Gallery/static/js/main.f8436253.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c261027.css",
-    "static/js/main.4e15db84.js"
+    "static/css/main.78d8f553.css",
+    "static/js/main.f8436253.js"
   ]
 }
